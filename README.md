@@ -10,6 +10,7 @@ Instructions for downloading the project:
 4.Open your browser and type 'localhost/' or '127.0.0.1/' , then from there go to phpmyadmin. 
 5.Create a database named:'Registration' in phpmyadmin. 
 6.Also create the table 'student' and add columns according to connect.php
-file:///C:/Users/ashia/Downloads/php.jpeg
+
+![php](https://user-images.githubusercontent.com/83655433/154322868-3dc06bd4-5c16-4f55-8dc9-cb6cc6ab302f.jpeg)
 
 Enter the details in the form and the database will be automatically be filled in phpmyadmin.
